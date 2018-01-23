@@ -4,8 +4,8 @@ Example of React + Babel Standalone application. Without any help of such tools 
 
 ## See live
 
-- [Full screen Plunker](https://run.plnkr.co/plunks/mweu8i/)
-- [Edit Plunker](https://plnkr.co/edit/mweu8i?p=info)
+- [Full screen Plunker](https://run.plnkr.co/plunks/MMjL5H/)
+- [Edit Plunker](https://plnkr.co/edit/MMjL5H?p=info)
 
 ## Run locally
 
